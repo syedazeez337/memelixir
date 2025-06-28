@@ -1,0 +1,4 @@
+pillow
+ollama
+typer[all]
+requests
